@@ -42,33 +42,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'wa.me/6283174508962'
+global.sig = 'https://www.instagram.com/tokoriku_'
+global.sgh = 'https://github.com/Lolllipoppp'
+global.sgc = 'https://chat.whatsapp.com/Dy8hlfp2C3D3sGYXM67LUI'
+global.sdc = 'https://t.me/TokoRiku'
+global.snh = 'wa.me/6287873985625'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
+global.pdana = '081314315064'
+global.povo = '085717128563'
+global.pgopay = '085717128563'
+global.ppulsa = '085717128563'
+global.ppulsa2 = '085891509762'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee'
-global.nameown = 'ZukashikaⒸ︎'
+global.nomorbot = '6285854331598'
+global.nomorown = '6287873985625'
+global.namebot = 'RikuBotz'
+global.nameown = 'RikuStoreⒸ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['6287873985625'],
+  ['6287873985625'],
+  ['6287873985625'],
+  ['6287873985625', 'RikuStore', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee' //Main Watermark
-global.wm2 = 'Halo kak Selamat datang di BotzzMee👋'
-global.wm3 = '☘︎ BotzzMee'
+global.wm = 'RikuBotz' //Main Watermark
+global.wm2 = 'Halo kak Selamat datang di RikuBotz👋'
+global.wm3 = '☘︎ RikuBotz'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = 'ZukaShikaⒸ︎' 
+global.author = 'RikuStoreⒸ︎' 
 
 
 /*============== LOGO ==============*/
@@ -180,7 +180,7 @@ global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Cie mau nyolong ya'
-global.stickauth = `By BotzzMeeⒸ︎`
+global.stickauth = `By RikuBotzⒸ︎`
 
 global.multiplier = 38 // The higher, The harder levelup
 
